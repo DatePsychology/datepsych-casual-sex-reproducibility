@@ -1,0 +1,9 @@
+sex,method,unweighted_n,concentration_lower_pct,concentration_upper_pct,population_share_three_plus_pct,removed_respondents
+Men,historical WTSSPS,189,45.3408,50.7783,16.4895,0
+Men,95th-percentile weight cap,189,37.9631,45.5574,11.1617,0
+Men,drop influential cases,187,28.8920,37.8271,6.6257,2
+Men,unweighted,189,42.1875,49.6599,13.2275,0
+Women,historical WTSSPS,230,37.9231,42.8193,12.5738,0
+Women,95th-percentile weight cap,230,35.3004,40.9901,11.3859,0
+Women,drop influential cases,229,30.1983,36.3287,9.2137,1
+Women,unweighted,230,37.0492,44.1860,12.1739,0

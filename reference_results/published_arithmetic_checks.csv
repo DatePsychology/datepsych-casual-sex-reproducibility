@@ -1,0 +1,4 @@
+check,derived,reported,difference,interpretation
+oral_survey_categories,640.0,628.0,12.0,Category counts sum to 640 versus stated N=628; categories assumed exhaustive as presented
+poll_implied_odds_ratio,1.2935779816513764,,,Approximate odds ratio from rounded 50.0% vs 43.6%; not an independent poll replication
+poll_phi_from_reported_chisquare,0.053103868096807595,,,Phi = sqrt(reported chi-square / reported N); X gender subgroup counts unavailable

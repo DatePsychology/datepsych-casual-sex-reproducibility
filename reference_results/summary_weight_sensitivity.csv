@@ -1,0 +1,7 @@
+version,sex,age_18_35_respondents,valid_n,unspecified_n,kish_effective_n,zero_pct,one_pct,two_plus_pct,three_plus_pct,five_plus_pct,two_plus_se_pp,two_plus_ci_low,two_plus_ci_high
+Historical baseline · WTSSPS,Men,412,189,4,56.1200,14.9199,62.2982,22.7819,16.4895,2.2471,7.2000,8.4067,37.1572
+Historical baseline · WTSSPS,Women,532,230,2,94.4700,12.8617,66.0871,21.0512,12.5738,2.0686,4.6210,11.8251,30.2773
+Baseline · WTSSNRPS,Men,412,189,4,54.6800,15.6340,62.9487,21.4173,14.9941,2.0816,6.7929,7.8547,34.9798
+Baseline · WTSSNRPS,Women,532,230,2,86.9200,12.5059,67.4435,20.0506,11.8021,1.8236,4.0836,11.8973,28.2038
+Combined · WTSSNRPS_AS,Men,516,234,6,64.1000,22.4674,56.5738,20.9588,14.8120,2.9696,5.9152,9.1519,32.7657
+Combined · WTSSNRPS_AS,Women,653,295,2,110.6200,14.5208,66.3963,19.0829,12.3717,1.4289,3.8203,11.4576,26.7082

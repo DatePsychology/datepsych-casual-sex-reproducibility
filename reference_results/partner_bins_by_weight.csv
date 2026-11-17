@@ -1,0 +1,55 @@
+version,sex,category,category_code,unweighted_count,unweighted_pct,weighted_pct
+Historical baseline · WTSSPS,Men,0,0,32,16.9312,14.9199
+Historical baseline · WTSSPS,Men,1,1,116,61.3757,62.2982
+Historical baseline · WTSSPS,Men,2,2,16,8.4656,6.2925
+Historical baseline · WTSSPS,Men,3,3,10,5.2910,11.9366
+Historical baseline · WTSSPS,Men,4,4,9,4.7619,2.3058
+Historical baseline · WTSSPS,Men,5–10,5,4,2.1164,1.2723
+Historical baseline · WTSSPS,Men,11–20,6,2,1.0582,0.9748
+Historical baseline · WTSSPS,Men,21–100,7,0,0.0000,0.0000
+Historical baseline · WTSSPS,Men,>100,8,0,0.0000,0.0000
+Historical baseline · WTSSPS,Women,0,0,33,14.3478,12.8617
+Historical baseline · WTSSPS,Women,1,1,146,63.4783,66.0871
+Historical baseline · WTSSPS,Women,2,2,23,10.0000,8.4774
+Historical baseline · WTSSPS,Women,3,3,12,5.2174,3.3003
+Historical baseline · WTSSPS,Women,4,4,9,3.9130,7.2049
+Historical baseline · WTSSPS,Women,5–10,5,6,2.6087,1.7907
+Historical baseline · WTSSPS,Women,11–20,6,1,0.4348,0.2779
+Historical baseline · WTSSPS,Women,21–100,7,0,0.0000,0.0000
+Historical baseline · WTSSPS,Women,>100,8,0,0.0000,0.0000
+Baseline · WTSSNRPS,Men,0,0,32,16.9312,15.6340
+Baseline · WTSSNRPS,Men,1,1,116,61.3757,62.9487
+Baseline · WTSSNRPS,Men,2,2,16,8.4656,6.4231
+Baseline · WTSSNRPS,Men,3,3,10,5.2910,10.8074
+Baseline · WTSSNRPS,Men,4,4,9,4.7619,2.1051
+Baseline · WTSSNRPS,Men,5–10,5,4,2.1164,1.3252
+Baseline · WTSSNRPS,Men,11–20,6,2,1.0582,0.7564
+Baseline · WTSSNRPS,Men,21–100,7,0,0.0000,0.0000
+Baseline · WTSSNRPS,Men,>100,8,0,0.0000,0.0000
+Baseline · WTSSNRPS,Women,0,0,33,14.3478,12.5059
+Baseline · WTSSNRPS,Women,1,1,146,63.4783,67.4435
+Baseline · WTSSNRPS,Women,2,2,23,10.0000,8.2485
+Baseline · WTSSNRPS,Women,3,3,12,5.2174,3.2456
+Baseline · WTSSNRPS,Women,4,4,9,3.9130,6.7329
+Baseline · WTSSNRPS,Women,5–10,5,6,2.6087,1.5860
+Baseline · WTSSNRPS,Women,11–20,6,1,0.4348,0.2376
+Baseline · WTSSNRPS,Women,21–100,7,0,0.0000,0.0000
+Baseline · WTSSNRPS,Women,>100,8,0,0.0000,0.0000
+Combined · WTSSNRPS_AS,Men,0,0,47,20.0855,22.4674
+Combined · WTSSNRPS_AS,Men,1,1,133,56.8376,56.5738
+Combined · WTSSNRPS_AS,Men,2,2,19,8.1197,6.1468
+Combined · WTSSNRPS_AS,Men,3,3,14,5.9829,10.0720
+Combined · WTSSNRPS_AS,Men,4,4,10,4.2735,1.7704
+Combined · WTSSNRPS_AS,Men,5–10,5,7,2.9915,1.8041
+Combined · WTSSNRPS_AS,Men,11–20,6,3,1.2821,1.1209
+Combined · WTSSNRPS_AS,Men,21–100,7,1,0.4274,0.0446
+Combined · WTSSNRPS_AS,Men,>100,8,0,0.0000,0.0000
+Combined · WTSSNRPS_AS,Women,0,0,44,14.9153,14.5208
+Combined · WTSSNRPS_AS,Women,1,1,191,64.7458,66.3963
+Combined · WTSSNRPS_AS,Women,2,2,24,8.1356,6.7112
+Combined · WTSSNRPS_AS,Women,3,3,15,5.0847,3.9345
+Combined · WTSSNRPS_AS,Women,4,4,12,4.0678,7.0084
+Combined · WTSSNRPS_AS,Women,5–10,5,8,2.7119,1.2283
+Combined · WTSSNRPS_AS,Women,11–20,6,1,0.3390,0.2006
+Combined · WTSSNRPS_AS,Women,21–100,7,0,0.0000,0.0000
+Combined · WTSSNRPS_AS,Women,>100,8,0,0.0000,0.0000

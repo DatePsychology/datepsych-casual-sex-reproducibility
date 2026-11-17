@@ -1,0 +1,9 @@
+provenance,group,percentile,first_year,first_ci_low,first_ci_high,second_year,second_ci_low,second_ci_high,note,strict_nonoverlap_as_displayed,touching_endpoint_as_displayed
+Harper original,Men overall,80,2002,11,14,2013,15,15,Harper Table 2: disjoint as published,True,False
+Nuance Pill reported R replication,Men overall,80,2002,12,15,2013,15,20,Nuance Pill screenshot: intervals touch; replication unresolved,False,True
+Harper original,Black men,80,2002,15,20,2013,20,40,Displayed intervals touch; not strict non-overlap,False,True
+Harper original,Hispanic men,95,2002,24,30,2013,30,50,Displayed intervals touch; not strict non-overlap,False,True
+Harper original,White women,80,2002,8,9,2013,9,10,Displayed intervals touch; not strict non-overlap,False,True
+Harper original,Men below Medicaid threshold,95,2002,25,50,2013,50,50,Displayed intervals touch,False,True
+Harper original,Men above Medicaid threshold,95,2002,31,45,2013,50,50,Displayed intervals disjoint; Harper attributes significant increase here,True,False
+Nuance Pill later NSFG graph,Men age 18-29,95,2013,30,50,2019,23,35,Approximate image readings; displayed intervals overlap; direct test absent,False,False

@@ -1,0 +1,3 @@
+check,value_1,value_2,value_3,reported_total,source,source_url,note
+oral_survey_category_total,140.0,57.0,443.0,628,"Alexander, Does Oral Sex Count As Having Sex?",https://datepsychology.com/does-oral-sex-count-as-having-sex/,"Purportedly exhaustive reported categories sum to 640, exceeding stated n=628 by 12."
+poll_association,0.5,0.436,24.396,8651,"Alexander, Casual sex is often mismeasured and overestimated",https://datepsychology.com/casual-sex-is-often-mismeasured-and-overestimated/,"Inputs are rounded percentages and published chi-square; OR and phi can be derived; subgroup counts unknown, so exact chi-square cannot be independently rerun."
